@@ -1,10 +1,8 @@
 ## Description
 
-Стек:
-
 Nest.js
 
-Mongoose: MongoDB хранение данных о пользователях и рефреш токен.
+Mongoose: MongoDB хранение данных о пользователях и рефреш токенах.
 
 Redis: хранение сгенерированных записей.
 
@@ -54,6 +52,8 @@ $ yarn install
 $ docker compose up
 
 ```
+
+### App will be available on http://localhost:3000
 
 ## License
 
